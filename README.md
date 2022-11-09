@@ -11,3 +11,5 @@
 <h3>Projeto responsivo construido pensando em mobile e desktop.<h3>
 
 <h4>confirá o resultado nas imagens abaixo:<h4>
+ 
+ <img src="https://github.com/Lucasvasconcelos25/WE-CARE/blob/master/assets/desktop%20We%20care.png?raw=true" alt="wecare-image">
